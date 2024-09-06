@@ -26,7 +26,7 @@ const ProductCard = ({ product }: Props) => {
             alt="product-image"
             width={600}
             height={600}
-            priority
+            loading="lazy"
             className="w-full h-full object-contain bg-[#f8f8f8] group-hover:scale-110 duration-200 overflow-hidden"
           />
           <ProductIcon
