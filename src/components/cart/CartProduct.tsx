@@ -26,6 +26,7 @@ const CartProduct = ({ product }: { product: Product }) => {
           height={300}
           src={product?.images[0]}
           alt="productImage"
+          loading="lazy"
           className="h-[90%] w-[90%] rounded-md object-contain object-center duration-300 hover:scale-110"
         />
       </Link>
