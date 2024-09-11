@@ -1,20 +1,60 @@
-Amazon 2.0 project developed by using Next js 14.
+# Amazon Clone Application
+
+Welcome to the Amazon Clone Application! This project is designed to help you manage your tasks efficiently while allowing multiple collaborators to work seamlessly in a team environment.
+
+<img width="1280" alt="Amazon Clone Website using Nextjs, Tailwindcss, Authjs, Stripejs _ Free Code _ Bangla tutorial" src="https://github.com/user-attachments/assets/7952bf22-804f-4dfe-8038-14668ecb3e0f">
 
 ## Getting Started
 
-First, run the development server:
+To begin working on this project:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+1. **Clone the Repository:**  
+   Clone this repository to your local machine using the following command:
+
+   ```bash
+   https://github.com/noorjsdivs/amazon-clone.git
+   ```
+   
+Install Dependencies:
+
+Navigate to the project directory and install the required packages using one of the following package managers:
+
+npm install
+   ```bash
+   npm install
+```
+#### or
+pnpm install
+   ```bash
+   pnpm install
+```
+#### or
+yarn
+   ```bash
+   yarn
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Run the Application:
+Start the development server using the following command:
 
-Need to add the .env credentials to access all the features
+npm run dev
+   ```bash
+      npm run dev
+```
+#### or
+pnpm dev
+   ```bash
+      pnpm dev
+```
+#### or
+yarn run dev
+   ```bash
+      yarn run dev
+```
+The application will be running on [localhost.](http://localhost:3000/)
 
+## Technology Stack
+This project is built using Next.js and leverages modern JavaScript libraries and tools to provide a robust development environment.
+
+
+Happy coding!
