@@ -30,7 +30,6 @@ const CartSummary = ({ email }: { email: string }) => {
     if (result.error) {
       alert(result?.error?.message);
     }
-    console.log("result", result);
   };
 
   return (

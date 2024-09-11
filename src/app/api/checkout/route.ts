@@ -7,7 +7,6 @@ export const POST = async (request: NextRequest) => {
   try {
     const reqBody = await request.json();
     const { items, email } = await reqBody;
-    console.log("items", items);
 
     const extractingItems = await items.map((item: Product) => ({
       quantity: item?.quantity,
