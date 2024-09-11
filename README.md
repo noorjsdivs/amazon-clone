@@ -1,6 +1,6 @@
 # Amazon Clone Application
 
-Welcome to the Amazon Clone Application! This project is designed to help you manage your tasks efficiently while allowing multiple collaborators to work seamlessly in a team environment.
+Amazon Clone Website using Nextjs, Tailwindcss, Authjs, Stripejs.
 
 <img width="1280" alt="Amazon Clone Website using Nextjs, Tailwindcss, Authjs, Stripejs _ Free Code _ Bangla tutorial" src="https://github.com/user-attachments/assets/7952bf22-804f-4dfe-8038-14668ecb3e0f">
 
@@ -52,6 +52,9 @@ yarn run dev
       yarn run dev
 ```
 The application will be running on [localhost.](http://localhost:3000/)
+
+## .env Credentials
+For successfully run the application and do all the functionality you must fill the keys mentioned in .env file
 
 ## Technology Stack
 This project is built using Next.js and leverages modern JavaScript libraries and tools to provide a robust development environment.
