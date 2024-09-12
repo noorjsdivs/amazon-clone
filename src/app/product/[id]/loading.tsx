@@ -1,12 +1,9 @@
 import Loading from "@/src/components/Loading";
+import MainLoader from "@/src/components/MainLoader";
 import React from "react";
 
 const LoadingPage = () => {
-  return (
-    <div className="py-72">
-      <Loading />
-    </div>
-  );
+  return <MainLoader />;
 };
 
 export default LoadingPage;
