@@ -1,4 +1,4 @@
-<img width="1280" alt="amazon_clone_using_nextjs_tailwindcss_stripejs,authjs_free_source_code" src="https://github.com/user-attachments/assets/a61399cc-8c2c-4065-97cc-79c15bb616c9"># Amazon Clone Application
+# Amazon Clone Application
 
 Amazon Clone Website using Nextjs, Tailwindcss, Authjs, Stripejs.
 
